@@ -1,0 +1,90 @@
+
+body{
+  background-color: lightgray;
+
+  border: none;
+  padding: 15px 20px;
+  text-align: center;
+  cursor: pointer;
+  position: center;
+}
+button {
+  background-color: lightBlue;
+  border: bold;
+  padding: 15px 20px;
+  text-align: center;
+  cursor: pointer;
+}
+div{
+  position:relative;;
+  }
+  .invisible {
+visibility : hidden;
+}
+
+.first{
+  width:100px;
+  height:100px;
+  background-color:red;
+  position: relative;
+  left: 0;
+
+}
+.second{
+  width:100px;
+  height:100px;
+  background-color:orange;
+  position: relative;
+  Left: 100px;
+  bottom:100px;
+
+}
+.third{
+  width:100px;
+  height:100px;
+  background-color:yellow;
+  position: relative;
+  Left: 200px;
+  bottom:200px;
+
+}
+.fourth{
+  width:100px;
+  height:100px;
+  background-color:green;
+  bottom:200px;
+}
+.fifth{
+  width:100px;
+  height:100px;
+  background-color:lightBlue;
+    Left: 100px;
+  bottom:300px;
+}
+.sixth{
+  width:100px;
+  height:100px;
+  background-color:blue;
+  left:200px;
+  bottom: 400px;
+}
+.seventh{
+  width:100px;
+  height:100px;
+  background-color:white;
+  bottom:400px;
+}
+.eightth{
+  width:100px;
+  height:100px;
+  background-color:gray;
+  left:100px;
+  bottom: 500px;
+}
+.ninth{
+  width:100px;
+  height:100px;
+  background-color:pink;
+  left:200px;
+  bottom: 600px;
+}
